@@ -4,7 +4,7 @@ Code and outputs for: "Selectivity as a Spectrum: A Distribution-Based
 Framework for Quantifying Multi-Target Activity Patterns Across Protein 
 Families in ChEMBL"
 
-**Author:** Abubakar Siddiq Salihu  
+**Corresponding Author:** Dr. Abubakar Siddiq Salihu  
 **ORCID:** 0000-0002-4425-7524  
 **Status:** Submitted to ChemMedChem
 
